@@ -3,6 +3,61 @@
     DART CHALLANGES
  ---------------------------------------- */
 
+ /* ----------------------------------------
+    WEAK TWO
+   -------------------------------------- */
+  /* EASY CHALLANGES
+    1 -> 
+      TIPS: 
+      BONUS: 
+      E.G -> INPUT NUMBERS: , OUTPUT: 
+    2 -> 
+      TIPS: 
+      BONUS: 
+      E.G -> INPUT NUMBERS: , OUTPUT: 
+    3 ->
+      TIPS: 
+      BONUS: 
+      E.G -> INPUT NUMBERS: , OUTPUT: 
+
+ */
+ /* INTERMEDIATE CHALLANGES
+    1 ->  
+      TIPS:
+      BONUS: 
+      E.G -> INPUT NUMBERS:  , OUTPUT:  
+    2 -> 
+      TIPS: 
+      BONUS: 
+    3 -> 
+      TIPS: 
+      BONUS: 
+      E.G -> INPUT NUMBERS:  , OUTPUT: 
+
+ */
+ /* HARD CHALLANGES
+    1 -> 
+      TIPS:  
+      BONUS: 
+      E.G -> INPUT NUMBER: , OUTPUT: 
+
+    2 -> 
+      TIPS: 
+      BONUS: 
+      E.G -> INPUT NUMBER: , OUTPUT: 
+
+    3 -> 
+      TIPS: 
+      BONUS: 
+      E.G -> INPUT : , OUTPUT:
+
+ */
+// --------------------------------------------------------------------------------------------
+
+
+/* ----------------------------------------
+    WEAK ONE 
+   -------------------------------------- */
  /* EASY CHALLANGES
     1 -> Write program that sum two numbers
       TIPS: USE PLUS(+) OPERATORS

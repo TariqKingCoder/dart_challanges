@@ -7,52 +7,71 @@
     WEAK TWO
    -------------------------------------- */
   /* EASY CHALLANGES
-    1 -> 
+    1 ->  Write a program that sort list elements
       TIPS: 
       BONUS: 
-      E.G -> INPUT NUMBERS: , OUTPUT: 
-    2 -> 
-      TIPS: 
-      BONUS: 
-      E.G -> INPUT NUMBERS: , OUTPUT: 
-    3 ->
-      TIPS: 
-      BONUS: 
-      E.G -> INPUT NUMBERS: , OUTPUT: 
+      E.G -> INPUT NUMBERS: [5,4,6,2,3,1]  , OUTPUT:  [1,2,3,4,5,6]
+    2 -> Write a program that find specific element in list
+      TIPS: use linear seach
+      BONUS: use runtime search input 
+      E.G -> INPUT NUMBERS: [5,4,6,2,3,1], search 4  , OUTPUT:  4 is in index number 1
+    3 -> write a program that print this:
+        *****
+        ****
+        ***
+        **
+        *
+      TIPS: use loop statements
+      BONUS: print stars based on user inputs 
 
  */
  /* INTERMEDIATE CHALLANGES
-    1 ->  
-      TIPS:
-      BONUS: 
-      E.G -> INPUT NUMBERS:  , OUTPUT:  
-    2 -> 
-      TIPS: 
-      BONUS: 
-    3 -> 
-      TIPS: 
-      BONUS: 
-      E.G -> INPUT NUMBERS:  , OUTPUT: 
+    1 -> write a program that print this:
+        *
+        **
+        ***
+        ****
+        *****
+      TIPS: use loop statements
+      BONUS: print stars based on user inputs
+    2 -> write a program that print this:
+           *
+          ** 
+         ***
+        ****
+       *****
+      TIPS: use loop statements
+      BONUS: print stars based on user inputs
+    3 ->write a program that print this:
+          *
+         ***
+        *****
+      TIPS: use loop statements
+      BONUS: print stars based on user inputs
 
  */
  /* HARD CHALLANGES
-    1 -> 
-      TIPS:  
-      BONUS: 
-      E.G -> INPUT NUMBER: , OUTPUT: 
+    1 -> Write a program to find a palindrom
+      TIPS:  palingdrom is a string have the same meaning in reverse order e.g: bob, if you reverse it then its also bob
+      BONUS: use split function of strings and reverse,join functions of list
+      E.G -> INPUT NUMBER: bob, OUTPUT: bob is palingdrom
 
-    2 -> 
-      TIPS: 
-      BONUS: 
-      E.G -> INPUT NUMBER: , OUTPUT: 
+    2 -> Write a program to convert a string based on Atbash cipher
+      TIPS: Atbash cipher is crypto algorithm that convert any string based on a-z order e.g: abc convert to zyx
+      BONUS: use indexOf function of string, ignore numbers, characters and spaces and only converts the alphabets(a-z, A-Z)
+      E.G -> INPUT NUMBER: abc, OUTPUT: zyx 
 
-    3 -> 
-      TIPS: 
-      BONUS: 
-      E.G -> INPUT : , OUTPUT:
+    3 -> write a program that print this: dimond stars
+        *****
+         ***
+          *
+      TIPS: use loop statements
+      BONUS: print stars based on user inputs
 
  */
 // --------------------------------------------------------------------------------------------
+
+
 
 
 /* ----------------------------------------

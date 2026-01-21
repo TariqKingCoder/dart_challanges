@@ -3,8 +3,61 @@
     DART CHALLANGES
  ---------------------------------------- */
 
+
  /* ----------------------------------------
-    WEAK TWO
+    WEEK THREE
+   -------------------------------------- */
+/* EASY CHALLANGES
+    1 -> Write stars printing programs of week two without using loop
+      TIPS: use functions
+      BONUS:  use recursions in functions
+    2 -> 
+      TIPS: 
+      BONUS: 
+      E.G -> INPUT NUMBERS: , OUTPUT: 
+    3 ->
+      TIPS: 
+      BONUS: 
+      E.G -> INPUT NUMBERS: , OUTPUT: 
+
+ */
+ /* INTERMEDIATE CHALLANGES
+    1 ->  
+      TIPS:
+      BONUS: 
+      E.G -> INPUT NUMBERS:  , OUTPUT:  
+    2 -> 
+      TIPS: 
+      BONUS: 
+    3 -> 
+      TIPS: 
+      BONUS: 
+      E.G -> INPUT NUMBERS:  , OUTPUT: 
+
+ */
+ /* HARD CHALLANGES
+    1 -> 
+      TIPS:  
+      BONUS: 
+      E.G -> INPUT NUMBER: , OUTPUT: 
+
+    2 -> 
+      TIPS: 
+      BONUS: 
+      E.G -> INPUT NUMBER: , OUTPUT: 
+
+    3 -> 
+      TIPS: 
+      BONUS: 
+      E.G -> INPUT : , OUTPUT:
+
+ */
+
+
+
+
+ /* ----------------------------------------
+    WEEK TWO
    -------------------------------------- */
   /* EASY CHALLANGES
     1 ->  Write a program that sort list elements
@@ -75,7 +128,7 @@
 
 
 /* ----------------------------------------
-    WEAK ONE 
+    WEEK ONE 
    -------------------------------------- */
  /* EASY CHALLANGES
     1 -> Write program that sum two numbers
